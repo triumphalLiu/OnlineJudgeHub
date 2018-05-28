@@ -47,15 +47,10 @@ public:
 
 	/*Use For Debug*/
 	int Debug() {
-		string str = "ab";
+		string str = "abc";
 		vector<string> result = Permutation(str);
 		for (int i = 0; i < result.size(); ++i)
 			cout << result[i].c_str() << endl;
 		return 0;
 	}
 };
-
-int main() {
-	Solution s;
-	return s.Debug();
-}
