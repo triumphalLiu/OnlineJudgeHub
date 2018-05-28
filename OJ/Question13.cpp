@@ -13,10 +13,11 @@ class Solution {
 public:
 	void reOrderArray(vector<int> &array) {
 		vector<int> evenNums;
-		while(array.empty() == false) {
-			if (array[0] % 2 == 0) {
-				evenNums.push_back(array[0]);
-				array.erase(array.begin());
+		for(int i = 0; i < array.size(); ++i) {
+			if (array[i] % 2 == 0) {
+				evenNums.push_back(array[i]);
+				array.erase(array.begin() + i);
+				--i;
 			}
 		}
 		for (int i = 0; i < evenNums.size(); ++i)
