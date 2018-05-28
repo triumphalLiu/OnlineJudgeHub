@@ -12,19 +12,22 @@ class Solution {
 	*/
 public:
 	bool IsPopOrder(vector<int> pushV, vector<int> popV) {
-		int len = pushV.size();
 		stack<int> simStack;
 		int indexPopV = 0, indexPushV = 0;
-		simStack.push(pushV[0]);
-		for (int i = 0; i < len; ++i) {
-			int currentPopNum = popV[indexPopV];
-			if (currentPopNum == simStack.top()) {
+		simStack.push(pushV[indexPushV++]);
+		while (1) {
+			if (popV[indexPopV] == simStack.top()) {
 				simStack.pop();
 				++indexPopV;
 			}
-			else{
-				if()
+			else {
+				if (indexPushV < pushV.size())
+					simStack.push(pushV[indexPushV++]);
 			}
+			if (simStack.empty() && indexPushV == pushV.size())
+				break;
+			if (!simStack.empty() && indexPushV == pushV.size() && popV[indexPopV] != simStack.top())
+				return false;
 		}
 		return true;
 	}
