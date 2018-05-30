@@ -155,5 +155,8 @@
     <ClCompile Include="Question45.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Question46.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
