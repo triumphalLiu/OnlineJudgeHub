@@ -134,5 +134,14 @@
     <ClCompile Include="Question38.cpp">
       <Filter>Source Files</Filter>
     </ClCompile>
+    <ClCompile Include="Question39.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Question40.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="Question41.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
   </ItemGroup>
 </Project>
