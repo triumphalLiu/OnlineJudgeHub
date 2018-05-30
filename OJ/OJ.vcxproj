@@ -173,6 +173,9 @@
     <ClCompile Include="Question29.cpp" />
     <ClCompile Include="Question3.cpp" />
     <ClCompile Include="Question30.cpp" />
+    <ClCompile Include="Question31.cpp" />
+    <ClCompile Include="Question32.cpp" />
+    <ClCompile Include="Question33.cpp" />
     <ClCompile Include="Question4.cpp" />
     <ClCompile Include="Question5.cpp" />
     <ClCompile Include="Question6.cpp" />
