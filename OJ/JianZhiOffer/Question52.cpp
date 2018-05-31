@@ -37,7 +37,6 @@ public:
 				}
 			}
 		}
-		Display(dp, strlen(str) + 1, strlen(pattern) + 1);
 		return dp[strlen(str)][strlen(pattern)];
 	}
 
@@ -59,8 +58,3 @@ public:
 		return 0;
 	}
 };
-
-int main() {
-	Solution s;
-	return s.Debug();
-}
