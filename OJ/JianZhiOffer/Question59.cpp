@@ -80,8 +80,3 @@ public:
 		return 0;
 	}
 };
-
-int main() {
-	Solution s;
-	return s.Debug();
-}
