@@ -1,0 +1,224 @@
+<?xml version="1.0" encoding="utf-8"?>
+<Project DefaultTargets="Build" ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup Label="ProjectConfigurations">
+    <ProjectConfiguration Include="Debug|Win32">
+      <Configuration>Debug</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|Win32">
+      <Configuration>Release</Configuration>
+      <Platform>Win32</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Debug|x64">
+      <Configuration>Debug</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+    <ProjectConfiguration Include="Release|x64">
+      <Configuration>Release</Configuration>
+      <Platform>x64</Platform>
+    </ProjectConfiguration>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="JianZhiOffer\Question1.cpp" />
+    <ClCompile Include="JianZhiOffer\Question10.cpp" />
+    <ClCompile Include="JianZhiOffer\Question11.cpp" />
+    <ClCompile Include="JianZhiOffer\Question12.cpp" />
+    <ClCompile Include="JianZhiOffer\Question13.cpp" />
+    <ClCompile Include="JianZhiOffer\Question14.cpp" />
+    <ClCompile Include="JianZhiOffer\Question15.cpp" />
+    <ClCompile Include="JianZhiOffer\Question16.cpp" />
+    <ClCompile Include="JianZhiOffer\Question17.cpp" />
+    <ClCompile Include="JianZhiOffer\Question18.cpp" />
+    <ClCompile Include="JianZhiOffer\Question19.cpp" />
+    <ClCompile Include="JianZhiOffer\Question2.cpp" />
+    <ClCompile Include="JianZhiOffer\Question20.cpp" />
+    <ClCompile Include="JianZhiOffer\Question21.cpp" />
+    <ClCompile Include="JianZhiOffer\Question22.cpp" />
+    <ClCompile Include="JianZhiOffer\Question23.cpp" />
+    <ClCompile Include="JianZhiOffer\Question24.cpp" />
+    <ClCompile Include="JianZhiOffer\Question25.cpp" />
+    <ClCompile Include="JianZhiOffer\Question26.cpp" />
+    <ClCompile Include="JianZhiOffer\Question27.cpp" />
+    <ClCompile Include="JianZhiOffer\Question28.cpp" />
+    <ClCompile Include="JianZhiOffer\Question29.cpp" />
+    <ClCompile Include="JianZhiOffer\Question3.cpp" />
+    <ClCompile Include="JianZhiOffer\Question30.cpp" />
+    <ClCompile Include="JianZhiOffer\Question31.cpp" />
+    <ClCompile Include="JianZhiOffer\Question32.cpp" />
+    <ClCompile Include="JianZhiOffer\Question33.cpp" />
+    <ClCompile Include="JianZhiOffer\Question34.cpp" />
+    <ClCompile Include="JianZhiOffer\Question35.cpp" />
+    <ClCompile Include="JianZhiOffer\Question36.cpp" />
+    <ClCompile Include="JianZhiOffer\Question37.cpp" />
+    <ClCompile Include="JianZhiOffer\Question38.cpp" />
+    <ClCompile Include="JianZhiOffer\Question39.cpp" />
+    <ClCompile Include="JianZhiOffer\Question4.cpp" />
+    <ClCompile Include="JianZhiOffer\Question40.cpp" />
+    <ClCompile Include="JianZhiOffer\Question41.cpp" />
+    <ClCompile Include="JianZhiOffer\Question42.cpp" />
+    <ClCompile Include="JianZhiOffer\Question43.cpp" />
+    <ClCompile Include="JianZhiOffer\Question44.cpp" />
+    <ClCompile Include="JianZhiOffer\Question45.cpp" />
+    <ClCompile Include="JianZhiOffer\Question46.cpp" />
+    <ClCompile Include="JianZhiOffer\Question47.cpp" />
+    <ClCompile Include="JianZhiOffer\Question48.cpp" />
+    <ClCompile Include="JianZhiOffer\Question49.cpp" />
+    <ClCompile Include="JianZhiOffer\Question5.cpp" />
+    <ClCompile Include="JianZhiOffer\Question50.cpp" />
+    <ClCompile Include="JianZhiOffer\Question51.cpp" />
+    <ClCompile Include="JianZhiOffer\Question52.cpp" />
+    <ClCompile Include="JianZhiOffer\Question53.cpp" />
+    <ClCompile Include="JianZhiOffer\Question54.cpp" />
+    <ClCompile Include="JianZhiOffer\Question55.cpp" />
+    <ClCompile Include="JianZhiOffer\Question56.cpp" />
+    <ClCompile Include="JianZhiOffer\Question57.cpp" />
+    <ClCompile Include="JianZhiOffer\Question58.cpp" />
+    <ClCompile Include="JianZhiOffer\Question59.cpp" />
+    <ClCompile Include="JianZhiOffer\Question6.cpp" />
+    <ClCompile Include="JianZhiOffer\Question60.cpp" />
+    <ClCompile Include="JianZhiOffer\Question61.cpp" />
+    <ClCompile Include="JianZhiOffer\Question62.cpp" />
+    <ClCompile Include="JianZhiOffer\Question63.cpp" />
+    <ClCompile Include="JianZhiOffer\Question64.cpp" />
+    <ClCompile Include="JianZhiOffer\Question65.cpp" />
+    <ClCompile Include="JianZhiOffer\Question66.cpp" />
+    <ClCompile Include="JianZhiOffer\Question7.cpp" />
+    <ClCompile Include="JianZhiOffer\Question8.cpp" />
+    <ClCompile Include="JianZhiOffer\Question9.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HeaderFiles\global.h" />
+  </ItemGroup>
+  <PropertyGroup Label="Globals">
+    <VCProjectVersion>15.0</VCProjectVersion>
+    <ProjectGuid>{10734E0C-D7C0-4D57-87A9-6F84534DAFE7}</ProjectGuid>
+    <Keyword>Win32Proj</Keyword>
+    <RootNamespace>OJ</RootNamespace>
+    <WindowsTargetPlatformVersion>10.0.17134.0</WindowsTargetPlatformVersion>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.Default.props" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>true</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'" Label="Configuration">
+    <ConfigurationType>Application</ConfigurationType>
+    <UseDebugLibraries>false</UseDebugLibraries>
+    <PlatformToolset>v141</PlatformToolset>
+    <WholeProgramOptimization>true</WholeProgramOptimization>
+    <CharacterSet>Unicode</CharacterSet>
+  </PropertyGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.props" />
+  <ImportGroup Label="ExtensionSettings">
+  </ImportGroup>
+  <ImportGroup Label="Shared">
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <ImportGroup Label="PropertySheets" Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <Import Project="$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props" Condition="exists('$(UserRootDir)\Microsoft.Cpp.$(Platform).user.props')" Label="LocalAppDataPlatform" />
+  </ImportGroup>
+  <PropertyGroup Label="UserMacros" />
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <LinkIncremental>true</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <LinkIncremental>false</LinkIncremental>
+  </PropertyGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+      <AdditionalIncludeDirectories>D:\NJU\OJ\OJ\HeaderFiles;%(AdditionalIncludeDirectories)</AdditionalIncludeDirectories>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Debug|x64'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>Disabled</Optimization>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>_DEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|Win32'">
+    <ClCompile>
+      <PrecompiledHeader>NotUsing</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>WIN32;NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <ItemDefinitionGroup Condition="'$(Configuration)|$(Platform)'=='Release|x64'">
+    <ClCompile>
+      <PrecompiledHeader>Use</PrecompiledHeader>
+      <WarningLevel>Level3</WarningLevel>
+      <Optimization>MaxSpeed</Optimization>
+      <FunctionLevelLinking>true</FunctionLevelLinking>
+      <IntrinsicFunctions>true</IntrinsicFunctions>
+      <SDLCheck>true</SDLCheck>
+      <PreprocessorDefinitions>NDEBUG;_CONSOLE;%(PreprocessorDefinitions)</PreprocessorDefinitions>
+      <ConformanceMode>true</ConformanceMode>
+    </ClCompile>
+    <Link>
+      <SubSystem>Console</SubSystem>
+      <EnableCOMDATFolding>true</EnableCOMDATFolding>
+      <OptimizeReferences>true</OptimizeReferences>
+      <GenerateDebugInformation>true</GenerateDebugInformation>
+    </Link>
+  </ItemDefinitionGroup>
+  <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
+  <ImportGroup Label="ExtensionTargets">
+  </ImportGroup>
+</Project>

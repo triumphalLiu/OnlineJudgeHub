@@ -1,0 +1,225 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="4.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{4FC737F1-C7A5-4376-A066-2A32D752A2FF}</UniqueIdentifier>
+      <Extensions>cpp;c;cc;cxx;def;odl;idl;hpj;bat;asm;asmx</Extensions>
+    </Filter>
+    <Filter Include="Header Files">
+      <UniqueIdentifier>{93995380-89BD-4b04-88EB-625FBE52EBFB}</UniqueIdentifier>
+      <Extensions>h;hh;hpp;hxx;hm;inl;inc;ipp;xsd</Extensions>
+    </Filter>
+    <Filter Include="Resource Files">
+      <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
+      <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
+    </Filter>
+    <Filter Include="Source Files\JianZhiOffer">
+      <UniqueIdentifier>{6b77e61a-25bf-4084-8534-1f7cf5495066}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+  <ItemGroup>
+    <ClCompile Include="JianZhiOffer\Question1.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question2.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question3.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question4.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question5.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question6.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question7.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question8.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question9.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question10.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question11.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question12.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question13.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question14.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question15.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question16.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question17.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question18.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question19.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question20.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question21.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question22.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question23.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question24.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question25.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question26.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question27.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question28.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question29.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question30.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question31.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question32.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question33.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question34.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question35.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question36.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question37.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question38.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question39.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question40.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question41.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question42.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question43.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question44.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question45.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question46.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question47.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question48.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question49.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question50.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question51.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question52.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question54.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question53.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question55.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question58.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question57.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question56.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question59.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question60.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question61.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question62.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question63.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question64.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question65.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+    <ClCompile Include="JianZhiOffer\Question66.cpp">
+      <Filter>Source Files\JianZhiOffer</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="HeaderFiles\global.h">
+      <Filter>Header Files</Filter>
+    </ClInclude>
+  </ItemGroup>
+</Project>
